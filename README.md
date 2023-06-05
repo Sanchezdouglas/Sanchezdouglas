@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, Soy Douglas Sanchez</h1>
 <h3 align="center">Data Science</h3>
-d
-- Estudio **Soy Henry**
+
 
 - 📫 Como llegar a mi **sanchesdouglas366@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/douglas sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="douglas sanchez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ douglassanchezcasanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ douglassanchezcasanova" height="30" width="40" /></a>
 </p>
 
