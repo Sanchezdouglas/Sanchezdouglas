@@ -1,6 +1,6 @@
 <h1>Hola 👋, Soy Douglas Sanchez</h1>
 
-<h3>Estudio Soy Henry</h3>  https://www.soyhenry.com <img src="https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg" style="width:104px;height:142px;>
+<h3>Estudio Soy Henry</h3>  https://www.soyhenry.com <img src="https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg" style="width:50px;height:142px;>
 
 
 <h4>Scientist and Data Analyst | Python Developer | Digital marketing
