@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Douglas Sanchez</h1>
+<h1>Hola 👋, Soy Douglas Sanchez</h1>
 
 <h3>Scientist and Data Analyst | Python Developer | Digital marketing
 Soy un analista de datos con experiencia en el campo del marketing y un apasionado por el poder de los datos para impulsar el éxito empresarial. Ofrezco servicios de análisis de datos a través de Power BI, para empresas de todas las áreas. Mi objetivo es ayudar a las organizaciones a tomar decisiones más fundamentadas, basadas en datos, que impulsen el crecimiento y la rentabilidad. A través de mi experiencia en marketing y mi habilidad para extraer información significativa de los datos, ofrezco soluciones personalizadas que optimizan el rendimiento y la eficiencia empresarial. Juntos, podemos impulsar su éxito.</h3>
