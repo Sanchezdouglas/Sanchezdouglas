@@ -1,6 +1,9 @@
 <h1>Hola 👋, Soy Douglas Sanchez</h1>
 
-<h3>Estudio Soy Henry https://www.soyhenry.com/</h3>
+<h3>Estudio Soy Henry</h3>  
+
+<a href=" https://www.soyhenry.com/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg)" alt="www.linkedin.com/in/ douglassanchezcasanova" height="30" width="40" /></a>
+
 
 <h4>Scientist and Data Analyst | Python Developer | Digital marketing
 Soy un analista de datos con experiencia en el campo del marketing y un apasionado por el poder de los datos para impulsar el éxito empresarial. Ofrezco servicios de análisis de datos a través de Power BI, para empresas de todas las áreas. Mi objetivo es ayudar a las organizaciones a tomar decisiones más fundamentadas, basadas en datos, que impulsen el crecimiento y la rentabilidad. A través de mi experiencia en marketing y mi habilidad para extraer información significativa de los datos, ofrezco soluciones personalizadas que optimizan el rendimiento y la eficiencia empresarial. Juntos, podemos impulsar su éxito.</h4>
