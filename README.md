@@ -1,8 +1,7 @@
 <h1>Hola 👋, Soy Douglas Sanchez</h1>
 
-<h3>Estudio Soy Henry</h3>  
-
-<a href=" https://www.soyhenry.com/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg)" alt="www.linkedin.com/in/ douglassanchezcasanova" height="30" width="40" /></a>
+<h3>Estudio Soy Henry</h3>  https://www.soyhenry.com
+<img src="https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg">
 
 
 <h4>Scientist and Data Analyst | Python Developer | Digital marketing
