@@ -1,4 +1,8 @@
 <h1>Hola 👋, Soy Douglas Sanchez</h1>
+<h4>Scientist and Data Analyst | Python Developer | Digital marketing
+Soy un analista de datos con experiencia en el campo del marketing y un apasionado por el poder de los datos para impulsar el éxito empresarial. Ofrezco servicios de análisis de datos a través de Power BI, para empresas de todas las áreas. Mi objetivo es ayudar a las organizaciones a tomar decisiones más fundamentadas, basadas en datos, que impulsen el crecimiento y la rentabilidad. A través de mi experiencia en marketing y mi habilidad para extraer información significativa de los datos, ofrezco soluciones personalizadas que optimizan el rendimiento y la eficiencia empresarial. Juntos, podemos impulsar su éxito.</h4>
+
+- 📫 Como llegar a mi **sanchesdouglas366@gmail.com**
 
 <h3>Estudio Soy Henry</h3>  https://www.soyhenry.com <img src="https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg" style="width:150px;height:50px;>
 
